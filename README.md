@@ -22,8 +22,8 @@ Currently, the bot supports the following slash commands:
 
 If you are part of the Hack Club Slack workspace, you can try out the bot yourself! 
 1. Navigate to the `#bot_spam` channel.
-3. Type `/kaimans` in the message box to see the autocomplete list of all available commands.
-4. Hit enter to run one and see the bot in action!
+2. Type `/kaimans` in the message box to see the autocomplete list of all available commands.
+3. Hit enter to run one and see the bot in action!
 
 ## Background & Journey
 
